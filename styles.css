@@ -18,6 +18,12 @@ td:last-child{
 .blue{
 	background-color:blue;
 }
+td{
+	border:1px solid black;
+	pedding:1px;
+
+}
+
 
 
 
