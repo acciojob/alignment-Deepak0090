@@ -9,6 +9,9 @@
 .center{
 	text-align:center;
 }
+.right{
+	text-align:right;
+}
 td:last-child{
 	text-align:right;
 }
