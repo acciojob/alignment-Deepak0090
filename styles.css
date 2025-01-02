@@ -1,50 +1,27 @@
-
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.5;
-    margin: 20px;
+.heading{
+	text-align:center;
 }
-
-h1.heading {
-    text-align: center;
-    font-size: 2rem;
-    margin-bottom: 20px;
+.middle{
+	border:1px solid black;
+	margin-left:auto;
+	margin-right:auto;
 }
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-bottom: 20px;
+.center{
+	text-align:center;
 }
-
-table.middle {
-    margin: 0 auto;
+td:last-child{
+	text-align:right;
 }
-
-table, td {
-    border: 1px solid black;
+.green{
+	background-color:green;
 }
-
-td {
-    padding: 5px;
-    text-align: left;
+.blue{
+	background-color:blue;
 }
 
 
-.center td {
-    text-align: center;
-}
 
-.right {
-    text-align: right;
-}
 
-.green {
-    background-color: green;
-    color: white;
-}
 
-.blue {
-    background-color: blue;
-    color: white;
-}
+
+
